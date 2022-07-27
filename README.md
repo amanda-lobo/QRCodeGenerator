@@ -9,7 +9,6 @@
 <p> Em busca de novos conhecimentos em Javascript, realizei um gerador de QRCode, onde o usuário insere uma URL e é gerado um código QRCode com o auxílio de uma API,
 para que o mesmo possa escaneá-lo. </p>
 
-## No que nos baseamos
 </div>
 
 ## Funcionalidades para o usuário
