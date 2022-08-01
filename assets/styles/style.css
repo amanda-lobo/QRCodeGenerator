@@ -101,3 +101,57 @@ body {
     display: block;
     transition: all .5s .5s ease;
 }
+
+@media screen and (max-width: 1150px ) {
+
+    .wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .wrapper .header h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .wrapper .header p {
+        font-size: 1rem;
+    }
+
+
+    .wrapper .qr-code img {
+        width: 100px;
+    }
+
+    .wrapper .form  button {
+        width: 80%;
+    }
+
+    .wrapper .form {
+        width: 80%;
+    }
+}
+
+@media screen and (max-height:500px){
+    .wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+
+    .wrapper .header h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .wrapper .header p {
+        font-size: 1rem;
+    }
+
+    .wrapper .qr-code img {
+        width: 100px;
+    }
+}
