@@ -16,12 +16,8 @@ para que o mesmo possa escaneá-lo. </p>
 - Inserir uma URL;
 - Scanear o QRCode em tela;
 
-<div align=center>
-<b><h3>Clique na imagem para verificar o nosso site:</h4></b>
-</div>
-
 <div align="center" style="display: inline_block"><br>
-<a href="https://qrcodegenerator-al.netlify.app/" target="_blank"><img src="https://i.imgur.com/JHNgCdS.png" width=900px height=400px></a>
+<a href="https://qrcodegenerator-al.netlify.app/" target="_blank"><img src="https://i.imgur.com/ZG8sEuj.gifv" width=900px height=400px></a>
 
 </div>
 
