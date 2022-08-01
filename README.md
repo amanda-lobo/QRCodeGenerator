@@ -11,15 +11,15 @@ para que o mesmo possa escaneá-lo. </p>
 
 </div>
 
+<div align="center" style="display: inline_block"><br>
+<a href="https://qrcodegenerator-al.netlify.app/" target="_blank"><img src="https://i.imgur.com/ZG8sEuj.gif" width=800px height=400px></a>
+
+</div>
+
 ## Funcionalidades para o usuário
 
 - Inserir uma URL;
 - Scanear o QRCode em tela;
-
-<div align="center" style="display: inline_block"><br>
-<a href="https://qrcodegenerator-al.netlify.app/" target="_blank"><img src="https://i.imgur.com/ZG8sEuj.gifv" width=900px height=400px></a>
-
-</div>
 
 ## Ferramentas utilizadas
 
